@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/jifoam/static/js/main.6496976d.js",
-    "static/js/453.b602283f.chunk.js": "/jifoam/static/js/453.b602283f.chunk.js",
-    "index.html": "/jifoam/index.html",
-    "main.6496976d.js.map": "/jifoam/static/js/main.6496976d.js.map",
-    "453.b602283f.chunk.js.map": "/jifoam/static/js/453.b602283f.chunk.js.map"
+    "main.js": "/jifoam/build/static/js/main.8a7318b6.js",
+    "static/js/453.b602283f.chunk.js": "/jifoam/build/static/js/453.b602283f.chunk.js",
+    "index.html": "/jifoam/build/index.html",
+    "main.8a7318b6.js.map": "/jifoam/build/static/js/main.8a7318b6.js.map",
+    "453.b602283f.chunk.js.map": "/jifoam/build/static/js/453.b602283f.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.6496976d.js"
+    "static/js/main.8a7318b6.js"
   ]
 }
